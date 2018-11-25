@@ -1,0 +1,19 @@
+
+HiddenCom
+
+A class intended to be run within a browser or on a server (node.js), the 
+ultimate goal for HiddenCom is to provide private communication between agents
+(any independent actor, such a program or a human).
+
+The following are objectives I will mark off, as they are added:
+
+	[ ] Pluggable identity store.
+	[ ] Sharing of key between nodes in the clear yet uninterceptible.
+	[ ] Multiple methods of shared-key encryption.
+	[ ] Private/Public key encryption.
+	[ ] Stenographic cipher/decipher.
+	[ ] RESTFul communication
+	[ ] TCP/IP socket communication
+	[ ] UDP socket communication
+
+
